@@ -9,5 +9,3 @@ URL-REGEX,^https?:\/\/api\.meipian\.me.+advert
 # > 知乎
 URL-REGEX,https://www.zhihu.com/api/v4/mcn/
 URL-REGEX,https://api.zhihu.com/(ab|adx|fringe|drama|zst|commercial|ad-style-service|topstory/hot-lists|market/popover|search/(top|tab|preset)|.*(guide|recommendations|featured-comment-ad))
-# > iOS
-DOMAIN,ocsp.apple.com
