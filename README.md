@@ -1,3 +1,3 @@
-# Surge3
-自用Surge配置脚本
-基于ConnersHua
+# Surge4
+自用配置，
+基于[ConnersHua](https://github.com/ConnersHua)
