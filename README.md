@@ -1,3 +1,1 @@
-# Surge4
-自用配置，
-基于[ConnersHua](https://github.com/ConnersHua)
+[https://github.com/eHpo1/Rules](https://github.com/eHpo1/Rules)
