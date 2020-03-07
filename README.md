@@ -1,3 +1,1 @@
-# Surge3
-自用Surge配置脚本
-基于ConnersHua
+[https://github.com/eHpo1/Rules](https://github.com/eHpo1/Rules)
